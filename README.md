@@ -1,6 +1,5 @@
 ### <div align="center"> Eae, sou o Jonnas, seja bem-vindo(a) ao meu Github! 😎 </div>
 
-<br />  
 
 <div align="center">
   <a href="https://github.com/jonnaschristian">
